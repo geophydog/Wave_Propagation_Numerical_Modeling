@@ -1,4 +1,4 @@
-## NOTICE!!! THIS PROGRAM COMES WITH NO WARRANTY, TO THE EXTEND PERMITED BY LAW!
+## NOTICE!!! THIS PROGRAM COMES WITH NO WARRANTY!!!
 
 ## Acoustic_Elastic_Wave_Propagation_Modeling
 ### Acoustic and elastic wave propagation modeling in homogeneous or heterogeneous media.
