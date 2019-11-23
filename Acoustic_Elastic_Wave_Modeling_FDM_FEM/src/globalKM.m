@@ -1,6 +1,6 @@
 function [ K, M ] = globalKM( nz, Ke, Me )
 
-% Global matrices have a dimension with (nz^2 x nz^2).
+% Global matrices have a dimension with (nz*nx by nz*nx).
 nz = floor(nz);
 N = floor(nz * nz);
 K = zeros(N, N);
