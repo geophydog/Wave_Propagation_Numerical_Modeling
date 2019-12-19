@@ -1,0 +1,17 @@
+nt          1001             # Number of time steps;
+dt          1e-3             # Step length of time;
+nx          301              # Number of space steps on X axis;
+dx          1.               # Step length of space on X axis;
+ny          301              # Number od space steps on Y axis;
+dy          1.               # Step length of space on Y axis;
+sx          70               # Spatial index of source on X axis;
+sy          70               # Spatial index of source on Y axis;
+vx          150.             # Velocity of advection in X direction;
+vy          100.             # Velocity of advection in Y direction;
+sigma_x     20.              # Controling the width of Gaussian shape in X direction;
+sigma_y     20.              # Controling the width of Gaussian shape in Y direction;
+xdir        1                # Advection direction, 1 for positive and 0 for negative on X axis;
+ydir        1                # Advection direction, 1 for positive and 0 for negative on Y axis;
+ns          100              # Number of output snapshots;
+method      LW               # Modeling method;
+src_type    Gauss            # Source shape.

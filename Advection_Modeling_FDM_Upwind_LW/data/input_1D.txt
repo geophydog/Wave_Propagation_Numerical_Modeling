@@ -1,0 +1,7 @@
+nt          501              # Number of time steps;
+dt          1e-3             # Step length od time;
+nx          201              # Number of space steps;
+dx          1.               # Step length of space;
+sx          100              # Spatial index of source;
+v           500.             # Velocity of advection;
+sigma       15.              # Controling the width of Gaussian shape.
